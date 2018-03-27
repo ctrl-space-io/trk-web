@@ -1,0 +1,6 @@
+taskweb:
+  appName: Tracker Application - Local
+  userServiceHost: localhost:8080
+logging:
+  level: debug
+

@@ -1,0 +1,6 @@
+taskweb:
+  appName: Tracker Application Prod
+  userServiceHost: userservice-dev.local.pcfdev.io
+logging:
+  level: info
+

@@ -1,0 +1,5 @@
+taskweb:
+  appName: Tracker Application - PCF Dev
+  userServiceHost: userservice-dev.local.pcfdev.io
+logging:
+  level: error
